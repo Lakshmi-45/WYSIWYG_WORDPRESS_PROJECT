@@ -1,0 +1,1 @@
+export const DND = { PALETTE: "PALETTE", ELEMENT: "ELEMENT" };
