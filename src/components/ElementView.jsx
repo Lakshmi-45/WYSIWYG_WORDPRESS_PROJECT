@@ -1,4 +1,3 @@
-// src/components/ElementView.jsx
 import React, { useEffect, useRef } from "react";
 import { useDrag } from "react-dnd";
 import { DND } from "../dnd";

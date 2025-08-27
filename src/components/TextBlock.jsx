@@ -1,4 +1,3 @@
-// src/components/TextBlock.jsx
 import React, { useEffect, useRef, useState } from "react";
 export function TextBlock({ el, selected, preview, onCommit }) {
 const [editing, setEditing] = useState(false);
